@@ -1,7 +1,5 @@
 
-## Available Scripts
-
-React, Redux and React-Redux demo
+## React, Redux and React-Redux demo
 
 ### `npm start`
 
